@@ -1,42 +1,64 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()
 {
-    // Getting Player's Name
+    // Variables to store player name and chosen Pokemon
     string player_name;
-    std::cout << "Enter your name: ";
+    string chosen_pokemon;
+
+    // Introduction by the Professor
+    cout << "Professor Oak: Hello there! Welcome to the world of Pokemon!" << endl;
+    cout << "Professor Oak: My name is Oak. People call me the Pokemon Professor!" << endl;
+    cout << "Professor Oak: But enough about me. Let's talk about you!" << endl;
+
+    // Taking player name as input
+    cout << "Professor Oak: First, tell me, what is your name?" << endl;
     cin >> player_name;
-    cout << "Ah, " << player_name << "!" << endl;
-    
-    // Meeting Professor Oak and choosing Pokemon
-    cout << "Welcome to the world of Pokemon! I am Professor Oak." << endl;
-    cout << "Today is a momentous day—you will be choosing your very first Pokémon." << endl;
-    cout << "Every great Trainer remembers this moment for the rest of their lives." << endl;
-    cout << "So, choose wisely, young one!" << endl;
-    cout << "You can choose one of the following Pokémon: " << endl;
-    cout << "1. Bulbasaur\n2. Charmander\n3. Squirtle\n";
-    cout << "Which Pokémon would you like to choose? Enter the number: ";
+
+    cout << "Professor Oak: Ah, " << player_name << "! What a fantastic name!" << endl;
+    cout << "Professor Oak: You must be eager to start your adventure. But first, you will need a Pokemon of your own!" << endl;
+
+    // Presenting Pokemon choices
+    cout << "Professor Oak: I have three Pokemon here with me. They are all quite feisty!" << endl;
+    cout << "Professor Oak: Choose wisely..." << endl;
+    cout << "1. Charmander - The fire type. A real hothead!" << endl;
+    cout << "2. Bulbasaur - The grass type. Calm and collected!" << endl;
+    cout << "3. Squirtle - The water type. Cool as a cucumber!" << endl;
+
     int choice;
+    cout << "Professor Oak: So, which one will it be? Enter the number of your choice: ";
     cin >> choice;
-    if (choice == 1) {
-        cout << "You chose Bulbasaur! A wise choice." << endl;
+
+    // Store the chosen Pokemon based on user input
+    switch (choice) {
+    case 1:
+        chosen_pokemon = "Charmander";
+        cout << "Professor Oak: A fiery choice! Charmander is yours!" << endl;
+        break;
+
+    case 2:
+        chosen_pokemon = "Bulbasaur";
+        cout << "Professor Oak: A fine choice! Bulbasaur is always ready to grow on you!" << endl;
+        break;
+
+    case 3:
+        chosen_pokemon = "Squirtle";
+        cout << "Professor Oak: Splendid! Squirtle will keep you cool under pressure!" << endl;
+        break;
+
+    default:
+        cout << "Professor Oak: Hmm, that does not seem right. Let me choose for you..." << endl;
+        chosen_pokemon = "Pikachu";
+        cout << "Professor Oak: Just kidding! Let's go with Pikachu, the surprise guest!" << endl;
+        break;
     }
-    else if (choice == 2) {
-        cout << "You chose Charmander! A fiery choice" << endl;
-    }
-    else if (choice == 3) {
-        cout << "You chose Squirtle! A cool choice." << endl;
-    }
-    else {
-        cout << "Invalid choice. Please restart the game." << endl;
-    }
-    
-    // Words from professor Oak after choosing Poekmon
-    cout << "Ah, an excellent choice!" << endl;
-    cout << "But beware, Trainer, this is only the beginning. Your journey is about to unfold." << endl;
-    cout << "Now let’s see if you’ve got what it takes to keep going!" << endl;
-    cout << "Good luck, and remember… Choose wisely!" << endl;
+
+    // Concluding the first chapter
+    cout << "Professor Oak: " << chosen_pokemon << " and you, " << player_name << ", are going to be the best of friends!" << endl;
+    cout << "Professor Oak: Your journey begins now! Get ready to explore the vast world of Pokemon!" << endl;
+
 
     return 0;
 }
