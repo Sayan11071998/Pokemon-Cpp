@@ -1,6 +1,8 @@
 #include<iostream>
 #include <limits>
 #include<string>
+#include "PokemonType.hpp"
+#include "PokemonChoice.hpp"
 using namespace std;
 
 // Function to clear the console
@@ -16,23 +18,6 @@ void clearConsole() {
 void WaitforEnter() {
     cin.get();
 }
-
-// Enum for Pokemon Choices
-enum class PokemonChoice {
-    CHARMANDER = 1,
-    BULBASAUR,
-    SQUIRTLE,
-    PIKACHU
-};
-
-// Enum for Pokemon Types
-enum class PokemonType {
-    FIRE,
-    GRASS,
-    WATER,
-    ELECTRIC,
-    NORMAL
-};
 
 // Pokemon class
 class Pokemon {
@@ -265,4 +250,4 @@ int main() {
 
     return 0;
 
-#include "header.hpp"
+}
