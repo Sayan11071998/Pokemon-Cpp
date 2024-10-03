@@ -44,6 +44,8 @@ public:
     }
 };
 
+#include "Player.hpp"
+
 // Professor Oak class
 class ProfessorOak {
 public:
