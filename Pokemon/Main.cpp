@@ -1,14 +1,32 @@
+#include "Game.hpp"
+#include "Player.hpp"
+#include "PokemonChoice.hpp"
+#include "PokemonType.hpp"
+#include "ProfessorOak.hpp"
+#include "Utility.hpp"
 #include <iostream>
+#include <limits>
+#include <string>
 using namespace std;
 
-int main()
-{
-    string player_name;
+int main() {
 
-    std::cout << "Enter your name: ";
-    cin >> player_name;
+    // Continue with the main flow of the game
+    ProfessorOak professor("Professor Oak");
+    Player player;
 
-    cout << "Great Start " << player_name << ", looks like you have understood the main() function properly now!" << endl;
+    // Greet the player and offer Pokemon choices
+    professor.greetPlayer(player);
+    professor.offerPokemonChoices(player);
+
+    // Explain the main quest
+    professor.explainMainQuest(player);
+
+    // Start the main game loop
+    Game game;
+    game.gameLoop(player);
+
 
     return 0;
+
 }
