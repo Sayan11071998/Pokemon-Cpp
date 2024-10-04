@@ -1,15 +1,12 @@
-#include "PokemonType.hpp"
-#include "PokemonChoice.hpp"
-#include "Utility.hpp"
 #include "Player.hpp"
 #include "Pokemon.hpp"
-#include<iostream>
+#include "PokemonChoice.hpp"
+#include "PokemonType.hpp"
+#include "Utility.hpp"
+#include <iostream>
 #include <limits>
-#include<string>
-
+#include <string>
 using namespace std;
-
-#include "Player.hpp"
 
 // Professor Oak class
 class ProfessorOak {

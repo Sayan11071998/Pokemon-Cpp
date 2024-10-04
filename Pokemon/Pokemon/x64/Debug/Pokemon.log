@@ -1,140 +1,39 @@
 ﻿  Main.cpp
-D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12): error C2011: 'PokemonType': 'enum' type redefinition
+D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(9,13): error C2079: 'Player::chosenPokemon' uses undefined class 'Pokemon'
   (compiling source file 'Main.cpp')
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Pokemon.hpp(5,7): error C2011: 'Pokemon': 'class' type redefinition
-  (compiling source file 'Main.cpp')
-      D:\Git\Pokemon-Cpp\Pokemon\Pokemon.hpp(5,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7): error C2011: 'Player': 'class' type redefinition
-  (compiling source file 'Main.cpp')
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(38,22): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(38,9): error C2672: 'getline': no matching overloaded function found
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(82,32):
-      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
-          D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(38,9):
-          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(75,32):
-      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
-          D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(38,9):
-          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(68,32):
-      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
-          D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(38,9):
-          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string(25,32):
-      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
-          D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(38,9):
-          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(39,37): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(55,9): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(63,42): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(69,17): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(71,67): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(77,17): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(83,17): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(101,57): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(147,28): error C2027: use of undefined type 'Player'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(5,7):
-      see declaration of 'Player'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(153,13): error C2079: 'charmander' uses undefined class 'Pokemon'
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(153,51): error C2027: use of undefined type 'PokemonType'
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(153,51): error C2065: 'FIRE': undeclared identifier
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(153,23): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(153,23):
-      The initializer contains too many elements
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(157,12): error C2079: 'player' uses undefined class 'Player'
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(157,18): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(157,18):
-      The initializer contains too many elements
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(160,15): error C2664: 'void ProfessorOak::greetPlayer(Player &)': cannot convert argument 1 from 'int' to 'Player &'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(26,10):
-      see declaration of 'ProfessorOak::greetPlayer'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(160,15):
-      while trying to match the argument list '(int)'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(161,15): error C2664: 'void ProfessorOak::offerPokemonChoices(Player &)': cannot convert argument 1 from 'int' to 'Player &'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(36,10):
-      see declaration of 'ProfessorOak::offerPokemonChoices'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(161,15):
-      while trying to match the argument list '(int)'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(164,15): error C2664: 'void ProfessorOak::explainMainQuest(Player &)': cannot convert argument 1 from 'int' to 'Player &'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(60,10):
-      see declaration of 'ProfessorOak::explainMainQuest'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(164,15):
-      while trying to match the argument list '(int)'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(167,5): error C2664: 'void gameLoop(Player &)': cannot convert argument 1 from 'int' to 'Player &'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(93,6):
-      see declaration of 'gameLoop'
-      D:\Git\Pokemon-Cpp\Pokemon\Main.cpp(167,5):
-      while trying to match the argument list '(int)'
   
   Player.cpp
-D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12): error C2011: 'PokemonType': 'enum' type redefinition
+D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(9,13): error C2079: 'Player::chosenPokemon' uses undefined class 'Pokemon'
   (compiling source file 'Player.cpp')
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
   
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(21,60): error C2027: use of undefined type 'PokemonType'
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(10,28): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
   
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(21,60): error C2065: 'FIRE': undeclared identifier
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(24,59): error C2027: use of undefined type 'PokemonType'
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(13,9): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
   
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(24,59): error C2065: 'GRASS': undeclared identifier
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(27,58): error C2027: use of undefined type 'PokemonType'
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(15,21): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
   
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(27,58): error C2065: 'WATER': undeclared identifier
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(30,57): error C2027: use of undefined type 'PokemonType'
-      D:\Git\Pokemon-Cpp\Pokemon\PokemonType.hpp(2,12):
-      see declaration of 'PokemonType'
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(21,32): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
   
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(30,57): error C2065: 'ELECTRIC': undeclared identifier
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(24,32): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
+  
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(27,32): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
+  
+D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(30,32): error C2027: use of undefined type 'Pokemon'
+      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
+      see declaration of 'Pokemon'
+  
+  Pokemon.cpp
+  Utility.cpp
   Generating Code...
