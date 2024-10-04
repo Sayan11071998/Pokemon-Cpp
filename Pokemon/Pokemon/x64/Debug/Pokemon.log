@@ -1,39 +1,5 @@
 ﻿  Main.cpp
-D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(9,13): error C2079: 'Player::chosenPokemon' uses undefined class 'Pokemon'
-  (compiling source file 'Main.cpp')
-  
   Player.cpp
-D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(9,13): error C2079: 'Player::chosenPokemon' uses undefined class 'Pokemon'
-  (compiling source file 'Player.cpp')
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(10,28): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(13,9): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(15,21): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(21,32): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(24,32): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(27,32): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-D:\Git\Pokemon-Cpp\Pokemon\Player.cpp(30,32): error C2027: use of undefined type 'Pokemon'
-      D:\Git\Pokemon-Cpp\Pokemon\Player.hpp(4,7):
-      see declaration of 'Pokemon'
-  
-  Pokemon.cpp
   Utility.cpp
   Generating Code...
+  Pokemon.vcxproj -> D:\Git\Pokemon-Cpp\Pokemon\x64\Debug\Pokemon.exe

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Git\\Pokemon-Cpp\\Pokemon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\PokemonChoice.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:PokemonChoice.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\PokemonChoice.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:PokemonChoice.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Utility.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\PokemonType.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +54,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T17:03:04.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Player.hpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.hpp",
               "RelativeDocumentMoniker": "Player.hpp",
               "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.hpp",
               "RelativeToolTip": "Player.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-03T18:02:57.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Player.cpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
               "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Player.cpp",
               "RelativeToolTip": "Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T18:03:11.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Pokemon.hpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.hpp",
               "RelativeDocumentMoniker": "Pokemon.hpp",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Pokemon.cpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.cpp",
               "RelativeDocumentMoniker": "Pokemon.cpp",
@@ -114,12 +114,11 @@
               "RelativeToolTip": "Pokemon.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-04T06:05:28.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:05:28.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Utility.hpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Utility.hpp",
               "RelativeDocumentMoniker": "Utility.hpp",
@@ -127,12 +126,11 @@
               "RelativeToolTip": "Utility.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-04T07:38:55.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:38:55.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Utility.cpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Utility.cpp",
               "RelativeDocumentMoniker": "Utility.cpp",
@@ -145,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PokemonChoice.hpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\PokemonChoice.hpp",
               "RelativeDocumentMoniker": "PokemonChoice.hpp",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "PokemonChoice.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-04T07:38:51.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:38:51.813Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "PokemonType.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-04T07:38:50.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:38:50.707Z"
             }
           ]
         }
