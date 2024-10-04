@@ -3,6 +3,7 @@
 #include "PokemonType.hpp"
 #include "Utility.hpp"
 #include "WildEncounterManager.hpp"
+#include "BattleManager.hpp"
 #include <iostream>
 using namespace std;
 
@@ -38,9 +39,9 @@ void Game::gameLoop(Player& player) {
         // Process the player's choice and display the corresponding message
         switch (choice) {
         case 1: {
-            // Create a scope within case 1
             WildEncounterManager encounterManager;
-            Pokemon encounteredPokemon = encounterManager.getRandomPokemonFromGrass(forestGrass);
+            Pokemon wildPokemon = encounterManager.getRandomPokemonFromGrass(forestGrass);
+            BattleManager::startBattle(player, wildPokemon);
             cout << "A wild " << encounteredPokemon.name << " appeared!" << endl;
             break;
         }
