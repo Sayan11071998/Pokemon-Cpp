@@ -1,7 +1,9 @@
-#include <iostream>
-#include "Grass.hpp"
+#include <vector>
+struct Grass;
+class Pokemon;
 
 class WildEncounterManager {
 public:
-	WildPokemon getRandomPokemonFromGrass(const Grass& grass);
+    WildEncounterManager();
+    Pokemon getRandomPokemonFromGrass(const Grass& grass);
 };

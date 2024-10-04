@@ -4,5 +4,7 @@ enum class PokemonType {
     GRASS,
     WATER,
     ELECTRIC,
+    BUG,
+    POISON,
     NORMAL
 };

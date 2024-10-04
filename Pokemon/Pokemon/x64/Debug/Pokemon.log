@@ -1,5 +1,8 @@
-﻿  Main.cpp
+﻿  Game.cpp
+  Main.cpp
   Player.cpp
-  Utility.cpp
+  Pokemon.cpp
+  WildEncounterManager.cpp
+D:\Git\Pokemon-Cpp\Pokemon\WildEncounterManager.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Generating Code...
   Pokemon.vcxproj -> D:\Git\Pokemon-Cpp\Pokemon\x64\Debug\Pokemon.exe

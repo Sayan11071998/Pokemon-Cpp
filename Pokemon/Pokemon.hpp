@@ -1,7 +1,6 @@
 #include <string>
-using namespace std;
-
 enum class PokemonType;
+using namespace std;
 
 class Pokemon {
 public:

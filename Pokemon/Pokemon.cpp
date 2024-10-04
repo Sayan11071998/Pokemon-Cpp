@@ -1,6 +1,6 @@
 #include "Pokemon.hpp"
-#include <iostream>
 #include "PokemonType.hpp"
+#include <iostream>
 using namespace std;
 
 // Default constructor
@@ -30,5 +30,5 @@ Pokemon::~Pokemon() {
 }
 
 void Pokemon::attack() {
-    cout << name << " attacks with a powerful move!\n";
+    cout << name << " attacks with a powerful move!" << endl;
 }
