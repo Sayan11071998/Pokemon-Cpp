@@ -19,7 +19,7 @@ namespace N_Pokemon {
 
         bool isFainted() const;
         void heal();
-        void attack(Pokemon* target);
+        void attack(Pokemon* target) = 0;
         void takeDamage(int damage);
     };
 }

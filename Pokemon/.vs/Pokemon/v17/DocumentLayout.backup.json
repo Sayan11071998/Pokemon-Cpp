@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Git\\Pokemon-Cpp\\Pokemon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\Pokemon-Cpp\\Pokemon\\include\\Pokemon\\Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:include\\Pokemon\\Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\Pokemon-Cpp\\Pokemon\\src\\Pokemon\\Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pokemon\\Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\Pokemon-Cpp\\Pokemon\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +30,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon.cpp",
+              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\src\\Pokemon\\Pokemon.cpp",
+              "RelativeDocumentMoniker": "src\\Pokemon\\Pokemon.cpp",
+              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\src\\Pokemon\\Pokemon.cpp",
+              "RelativeToolTip": "src\\Pokemon\\Pokemon.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T18:08:18.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Pokemon.hpp",
+              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\include\\Pokemon\\Pokemon.hpp",
+              "RelativeDocumentMoniker": "include\\Pokemon\\Pokemon.hpp",
+              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\include\\Pokemon\\Pokemon.hpp",
+              "RelativeToolTip": "include\\Pokemon\\Pokemon.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-05T18:07:53.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",

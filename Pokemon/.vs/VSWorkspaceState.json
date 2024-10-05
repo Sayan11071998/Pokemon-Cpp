@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\include",
+    "\\include\\Pokemon",
+    "\\include\\Pokemon\\Pokemons",
     "\\src",
     "\\src\\Battle",
     "\\src\\Pokemon",
