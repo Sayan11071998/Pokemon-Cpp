@@ -1,8 +1,9 @@
 namespace N_Utility {
+
     class Utility {
     public:
         static void clearConsole();
-        static void waitforEnter();
-        static void clearInputBuffer();
+        static void waitForEnter();
+        static void clearInputBuffer(); // New helper function
     };
 }
