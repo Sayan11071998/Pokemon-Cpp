@@ -1,9 +1,11 @@
+#include "iostream"
 #include "../../../include/Character/Player/Player.hpp"
 #include "../../../include/Pokemon/PokemonChoice.hpp"
-#include "../../../include/Pokemon/PokemonType.hpp"
 #include "../../../include/Pokemon/Pokemons/Pikachu.hpp"
 #include "../../../include/Utility/Utility.hpp"
-#include "iostream"
+#include "../../../include/Pokemon/Pokemons/Bulbasaur.hpp"
+#include "../../../include/Pokemon/Pokemons/Charmander.hpp"
+#include "../../../include/Pokemon/Pokemons/Squirtle.hpp"
 
 namespace N_Character
 {
@@ -15,7 +17,6 @@ namespace N_Character
 
         Player::Player() {
             name = "Trainer";
-            chosenPokemon = new Pokemon(); // Using the default Pokemon constructor
         }
 
         Player::Player(std::string p_name) {
