@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\Git\\Pokemon-Cpp\\Pokemon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:BattleManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:BattleState.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Pokemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|D:\\Git\\Pokemon-Cpp\\Pokemon\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CD20EE63-8460-4729-9042-BF734B92BC8E}|Pokemon.vcxproj|solutionrelative:Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -56,28 +44,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BattleManager.hpp",
-              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.hpp",
-              "RelativeDocumentMoniker": "BattleManager.hpp",
-              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.hpp",
-              "RelativeToolTip": "BattleManager.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-04T18:20:15.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BattleManager.cpp",
-              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.cpp",
-              "RelativeDocumentMoniker": "BattleManager.cpp",
-              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.cpp",
-              "RelativeToolTip": "BattleManager.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-04T18:23:27.853Z",
+              "Title": "BattleState.hpp",
+              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleState.hpp",
+              "RelativeDocumentMoniker": "BattleState.hpp",
+              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleState.hpp",
+              "RelativeToolTip": "BattleState.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-05T04:25:28.297Z",
               "EditorCaption": ""
             },
             {
@@ -86,52 +61,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pokemon.hpp",
-              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.hpp",
-              "RelativeDocumentMoniker": "Pokemon.hpp",
-              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.hpp",
-              "RelativeToolTip": "Pokemon.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BattleManager.hpp",
+              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.hpp",
+              "RelativeDocumentMoniker": "BattleManager.hpp",
+              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.hpp",
+              "RelativeToolTip": "BattleManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-04T16:51:55.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pokemon.cpp",
-              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.cpp",
-              "RelativeDocumentMoniker": "Pokemon.cpp",
-              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Pokemon.cpp",
-              "RelativeToolTip": "Pokemon.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-04T16:51:57.649Z",
+              "WhenOpened": "2024-10-04T18:20:15.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Game.hpp",
-              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Game.hpp",
-              "RelativeDocumentMoniker": "Game.hpp",
-              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Game.hpp",
-              "RelativeToolTip": "Game.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-04T16:55:32.05Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Game.cpp",
-              "RelativeDocumentMoniker": "Game.cpp",
-              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\Game.cpp",
-              "RelativeToolTip": "Game.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
+              "Title": "BattleManager.cpp",
+              "DocumentMoniker": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.cpp",
+              "RelativeDocumentMoniker": "BattleManager.cpp",
+              "ToolTip": "D:\\Git\\Pokemon-Cpp\\Pokemon\\BattleManager.cpp",
+              "RelativeToolTip": "BattleManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-04T16:55:36.034Z",
+              "WhenOpened": "2024-10-04T18:23:27.853Z",
               "EditorCaption": ""
             }
           ]

@@ -4,6 +4,11 @@
 using namespace std;
 
 void BattleManager::startBattle(Player& player, Pokemon& wildPokemon) {
+    battleState.playerPokemon = &player.chosenPokemon;
+    battleState.wildPokemon = &wildPokemon;
+    battleState.playerTurn = true;
+    battleState.battleOngoing = true;
+
 	cout << "A wild " << wildPokemon.name << " appeared!" << endl;
 	battle(player.chosenPokemon, wildPokemon);
 }
