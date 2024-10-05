@@ -6,10 +6,13 @@
     "\\include\\Pokemon\\Pokemons",
     "\\src",
     "\\src\\Battle",
+    "\\src\\Character",
+    "\\src\\Character\\Player",
+    "\\src\\Main",
     "\\src\\Pokemon",
     "\\src\\Pokemon\\Pokemons",
     "\\src\\Utility"
   ],
-  "SelectedNode": "\\Main.cpp",
+  "SelectedNode": "\\src\\Character\\Player\\Player.cpp",
   "PreviewInSolutionExplorer": false
 }
