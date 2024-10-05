@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Pokemon",
+    "\\Pokemon\\include",
+    "\\Pokemon\\include\\Pokemon",
+    "\\Pokemon\\include\\Pokemon\\Pokemons",
+    "\\Pokemon\\src",
+    "\\Pokemon\\src\\Battle",
+    "\\Pokemon\\src\\Main",
+    "\\Pokemon\\src\\Pokemon",
+    "\\Pokemon\\src\\Utility"
+  ],
+  "SelectedNode": "\\Pokemon\\include\\Pokemon\\Pokemons\\Pikachu.hpp",
+  "PreviewInSolutionExplorer": false
+}
