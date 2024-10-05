@@ -1,13 +1,28 @@
 ﻿  BattleManager.cpp
+  Caterpie.cpp
+  Charmander.cpp
   Game.cpp
-  Main.cpp
+  Pidgey.cpp
+  Pikachu.cpp
 /BattleManager.cpp(1,1): error C1083: Cannot open source file: 'BattleManager.cpp': No such file or directory
+  Player.cpp
   (compiling source file '/BattleManager.cpp')
+  
+/Caterpie.cpp(1,1): error C1083: Cannot open source file: 'Caterpie.cpp': No such file or directory
+  (compiling source file '/Caterpie.cpp')
+  
+/Charmander.cpp(1,1): error C1083: Cannot open source file: 'Charmander.cpp': No such file or directory
+  (compiling source file '/Charmander.cpp')
   
 /Game.cpp(1,1): error C1083: Cannot open source file: 'Game.cpp': No such file or directory
   (compiling source file '/Game.cpp')
   
-  Player.cpp
+/Pidgey.cpp(1,1): error C1083: Cannot open source file: 'Pidgey.cpp': No such file or directory
+  (compiling source file '/Pidgey.cpp')
+  
+/Pikachu.cpp(1,1): error C1083: Cannot open source file: 'Pikachu.cpp': No such file or directory
+  (compiling source file '/Pikachu.cpp')
+  
 /Player.cpp(1,1): error C1083: Cannot open source file: 'Player.cpp': No such file or directory
   (compiling source file '/Player.cpp')
   
@@ -26,5 +41,9 @@
   WildEncounterManager.cpp
 /WildEncounterManager.cpp(1,1): error C1083: Cannot open source file: 'WildEncounterManager.cpp': No such file or directory
   (compiling source file '/WildEncounterManager.cpp')
+  
+  Zubat.cpp
+/Zubat.cpp(1,1): error C1083: Cannot open source file: 'Zubat.cpp': No such file or directory
+  (compiling source file '/Zubat.cpp')
   
   Generating Code...
