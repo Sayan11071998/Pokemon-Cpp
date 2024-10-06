@@ -3,8 +3,12 @@
     "",
     "\\Pokemon",
     "\\Pokemon\\include",
-    "\\Pokemon\\src"
+    "\\Pokemon\\include\\Pokemon",
+    "\\Pokemon\\include\\Pokemon\\StatusEffects",
+    "\\Pokemon\\src",
+    "\\Pokemon\\src\\Pokemon",
+    "\\Pokemon\\src\\Pokemon\\StatusEffects"
   ],
-  "SelectedNode": "\\Pokemon\\Main.cpp",
+  "SelectedNode": "\\Pokemon\\include\\Pokemon\\StatusEffects\\IStatusEffect.hpp",
   "PreviewInSolutionExplorer": false
 }
