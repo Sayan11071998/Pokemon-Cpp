@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Pokemon",
-    "\\Pokemon\\include",
-    "\\Pokemon\\include\\Pokemon",
-    "\\Pokemon\\include\\Pokemon\\StatusEffects",
     "\\Pokemon\\src",
+    "\\Pokemon\\src\\Battle",
+    "\\Pokemon\\src\\Character",
+    "\\Pokemon\\src\\Character\\Player",
+    "\\Pokemon\\src\\Main",
     "\\Pokemon\\src\\Pokemon",
-    "\\Pokemon\\src\\Pokemon\\StatusEffects"
+    "\\Pokemon\\src\\Pokemon\\Pokemons",
+    "\\Pokemon\\src\\Utility"
   ],
   "SelectedNode": "\\Pokemon\\Main.cpp",
   "PreviewInSolutionExplorer": false
