@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cd20ee63-8460-4729-9042-bf734b92bc8e}</ProjectGuid>
+    <ProjectGuid>{7f677859-4008-4c62-b77d-aab2e57f4e29}</ProjectGuid>
     <RootNamespace>Pokemon</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,7 +127,37 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BattleManager.cpp" />
+    <ClCompile Include="Caterpie.cpp" />
+    <ClCompile Include="Charmander.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Pidgey.cpp" />
+    <ClCompile Include="Pikachu.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Pokemon.cpp" />
+    <ClCompile Include="ProfessorOak.cpp" />
+    <ClCompile Include="Utility.cpp" />
+    <ClCompile Include="WildEncounterManager.cpp" />
+    <ClCompile Include="Zubat.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BattleManager.hpp" />
+    <ClInclude Include="BattleState.hpp" />
+    <ClInclude Include="Caterpie.hpp" />
+    <ClInclude Include="Charmander.hpp" />
+    <ClInclude Include="Game.hpp" />
+    <ClInclude Include="Grass.hpp" />
+    <ClInclude Include="Pidgey.hpp" />
+    <ClInclude Include="Pikachu.hpp" />
+    <ClInclude Include="Player.hpp" />
+    <ClInclude Include="Pokemon.hpp" />
+    <ClInclude Include="PokemonChoice.hpp" />
+    <ClInclude Include="PokemonType.hpp" />
+    <ClInclude Include="ProfessorOak.hpp" />
+    <ClInclude Include="Utility.hpp" />
+    <ClInclude Include="WildEncounterManager.hpp" />
+    <ClInclude Include="Zubat.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
